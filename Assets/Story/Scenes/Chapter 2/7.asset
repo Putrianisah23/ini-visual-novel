@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 7
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Keesokan harinya sewidak pergi ke pasar untuk menjual kayu dan sayur hasil
+      kebunnya. Di pasar sangat ramai sekali
+    audio: {fileID: 8300000, guid: c90bbda81fc61b64096dab173e188461, type: 3}
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Pakde, ini kayu dan sayuran dari ibu untuk di jual
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 450, y: -50}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: ...
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 3
+      coords: {x: 450, y: -50}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Ohh sewidak loroo, makasih ya nduk sudah di antarkan '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 09a667cccd8e98a428c11c3ae2671400, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: sama-sama pakde
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 450, y: -50}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: ...
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 3
+      coords: {x: 450, y: -50}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Tiba-tiba terdengar kegaduhan, ternyata sang pangeran dari Kerajaan sedang
+      berkunjung untuk melihat hasil bumi di pasar.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Tak sengaja, pangeran melihat sewidak loro. Ia tertekun melihat wajah sewidak
+      yang manis dan unik untuknya. Ia pun menghampiri sewidak loro untuk mengajaknya
+      berbicara.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: hei, siapa namamu?
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 7885c8ff3bc7b274ca4b3822234001a6, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 7885c8ff3bc7b274ca4b3822234001a6, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 450, y: -50}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: namaku sewidak, sewidak loro
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 7885c8ff3bc7b274ca4b3822234001a6, type: 2}
+      spriteIndex: 0
+      actionType: 3
+      coords: {x: 450, y: -50}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 450, y: -50}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: nama yang unik, akan ada penjamuan di istana, bisakah kau datang?
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 7885c8ff3bc7b274ca4b3822234001a6, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 7885c8ff3bc7b274ca4b3822234001a6, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 450, y: -50}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 3
+      coords: {x: 450, y: -50}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Mendengar hal itu, sewidak sangat terkejut pangeran mengundangnya ke istana
+      untuk acara penjamuan. Sewidak awalnya ragu, namun akhirnya ia menyetujuinya.
+      Sewidak bergegas pulang untuk menceritakan kejadian ini pada ibunya.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 7885c8ff3bc7b274ca4b3822234001a6, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 7885c8ff3bc7b274ca4b3822234001a6, type: 2}
+      spriteIndex: 0
+      actionType: 3
+      coords: {x: 450, y: -50}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  background: {fileID: 21300000, guid: ab087cc3560756c478150171c4f92bdf, type: 3}
+  nextScene: {fileID: 11400000, guid: 640e7e3acf4d2ea43a7b030fb65b63ed, type: 2}

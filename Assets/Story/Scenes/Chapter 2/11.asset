@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 11
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Melihat Cahaya terang itu membuat mbok dan pangeran terkejut karena tiba-tiba
+      sewidak loro berubah menjadi Wanita yang sangat cantik dan anggun. Rambut yang
+      Panjang dan berkilau, Alis yang melengkung dengan sempurna dan senyum yang
+      sangat manis menghiasi wajah sewidak loro.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 1
+      actionType: 1
+      coords: {x: 0, y: 150}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Mbok menangis haru, ia tidak menyangka putri kecilnya kini menjadi gadis
+      yang sangat cantik. Cantik hati dan cantik paras, ia berterimakasih kepada
+      Tuhan karena semua doa nya selama ini terkabul juga. Sewidak Loro dan mboknya
+      kini hidup bahagia di istana.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 1
+      actionType: 0
+      coords: {x: 0, y: 150}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: ...
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 1
+      actionType: 3
+      coords: {x: 0, y: 150}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  background: {fileID: 21300000, guid: dfa5c4e05f8702940b9b5d12c86e5125, type: 3}
+  nextScene: {fileID: 0}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c532fed5cb600d44e8f2278d8022f6e9, type: 3}
+  m_Name: Pesan1
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: 'Bisa kita lihat, betapa besar cinta kasih seorang ibu kepada anaknya meskipus
+      anaknya buruk rupa. Cara Mbok mendukung anaknya membuat suwidak Loro yakin
+      pada dirinya dan Suwidak Loro Menjadi Lebih percaya Diri. Ibu selalu mengasihi
+      kita. Doa restunya buisa membuat hati kita yakin untuk melangkah masa depan
+      yang cerah. maka dari itu, hormatilah orang tua kita terutama ibu. Seperti
+      Suwidak loro yang meskipus tidak cantik ia tetap patuh dan selalu membantu
+      Ibunya. '
+  nextScene: {fileID: 0}
